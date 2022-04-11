@@ -7,7 +7,11 @@ namespace ApiContainer
 
         static void Main(string[] args)
         {
-            new RunProgramme().EnterNames();
+            // Programme hs three start point descending in complexity
+
+            // new RunProgramme().EnterNames();
+            // new SimpleTemplate.StarWars().RunProgramme();
+            new APIMergeOutput.PeekRawData().RawResults();
         }
     }
 }
