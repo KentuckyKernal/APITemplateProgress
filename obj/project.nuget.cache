@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tGzjFHn8P82n181kuUXQ5qrcQy1Kg3gJv7onW4GYm+oiV/JvLusP2B2LqAIzhBKERCbn0suYEeak3tak/3ck6g==",
+  "success": true,
+  "projectFilePath": "D:\\ConsoleApps\\ApiContainer\\ApiContainer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafte_2yhd31j\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

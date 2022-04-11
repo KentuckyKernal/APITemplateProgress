@@ -1,0 +1,17 @@
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ApiContainer.csproj.AssemblyReference.cache
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ApiContainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ApiContainer.AssemblyInfoInputs.cache
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ApiContainer.AssemblyInfo.cs
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ApiContainer.csproj.CoreCompileInputs.cache
+D:\ConsoleApps\ApiContainer\bin\Debug\net6.0\ApiContainer.exe
+D:\ConsoleApps\ApiContainer\bin\Debug\net6.0\ApiContainer.deps.json
+D:\ConsoleApps\ApiContainer\bin\Debug\net6.0\ApiContainer.runtimeconfig.json
+D:\ConsoleApps\ApiContainer\bin\Debug\net6.0\ApiContainer.dll
+D:\ConsoleApps\ApiContainer\bin\Debug\net6.0\ref\ApiContainer.dll
+D:\ConsoleApps\ApiContainer\bin\Debug\net6.0\ApiContainer.pdb
+D:\ConsoleApps\ApiContainer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ApiContainer.csproj.CopyComplete
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ApiContainer.dll
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ref\ApiContainer.dll
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ApiContainer.pdb
+D:\ConsoleApps\ApiContainer\obj\Debug\net6.0\ApiContainer.genruntimeconfig.cache
